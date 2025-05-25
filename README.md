@@ -8,10 +8,10 @@ Código feito em casa:
 teste 1: Input: s = "YazaAay"
 Output: "aAa"
 
-Input: s = "Bb"
+teste 2:Input: s = "Bb"
 Output: "Bb"
 
-Input: s = "c"
+teste 3:Input: s = "c"
 Output: ""
 
 
